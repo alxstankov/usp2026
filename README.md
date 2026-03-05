@@ -20,5 +20,11 @@
         public void greetSpanish(){
             System.out.printl ("Hola");
         }
+
+        public void greetBulgarian(){
+            System.out.printl ("Zdravei");
+        }
+        
+
     }
 ``
