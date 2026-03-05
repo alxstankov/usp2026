@@ -20,5 +20,10 @@
         public void greetSpanish(){
             System.out.printl ("Hola");
         }
+
+        private void checkLanguage(String lang)
+        {
+            //Checking lang
+        }
     }
 ``
