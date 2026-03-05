@@ -5,7 +5,16 @@
     {
         public static void main(String[] args)
         {
-            System.out.println("Hello World!);
+            //TODO Auto - generated method stub
+            Greeting gr= new Generating ();
+            gr.greetItalian ();
+        }
+        public void greetEnglish(){
+            System.out.printl ("Hello");
+        }
+
+        public void greetItalian(){
+            System.out.printl ("Ciao");
         }
     }
 ``
