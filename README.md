@@ -16,5 +16,9 @@
         public void greetItalian(){
             System.out.printl ("Ciao");
         }
+
+        public void greetSpanish(){
+            System.out.printl ("Hola");
+        }
     }
 ``
